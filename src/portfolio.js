@@ -34,7 +34,7 @@ const projects = [
       'creating interactive and reponsive website which tracks exercise activity using JavaScript, ReactJS, ExpressJS, using MERN stack with login capability and MongoDB',
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    livePreview: 'https://final-project-kwfgmu9a4-poomhan.vercel.app/sign-in',
   },
   {
     name: 'Jamming',
